@@ -7,6 +7,7 @@ General Info
 Technologies Used
 Conclusions
 Acknowledgements
+
 ## General Information
 Basis the dataset, we analyze what factors affect the house purchase decision of customers. The target variable, house sales, and other parameters such as neighborhood, area, overall quality, etc. have been included in the dataset. We visualize the data, scale it and apply Ridge and Lasso regression methods.
 
